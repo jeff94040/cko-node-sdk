@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "checkout-sdk-node": "^2.2.1",
+    "dotenv": "^16.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  }
+}
